@@ -1,0 +1,14 @@
+{
+  "name": "nitrogen_by_kenoor",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenoor",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^2.88.0"
+  }
+}
